@@ -150,81 +150,10 @@
 			"zip": "44805-2477",
 			"account": 75687014,
 			"contact": "Jayden Heathcote"
-		},
-		{
-			"slug": "Konopelski-Group",
-			"name": "Konopelski Group",
-			"address": "476 Minnie Land",
-			"city": "Walterhaven",
-			"state": "WV",
-			"zip": "22132-3558",
-			"account": 32447634,
-			"contact": "Manley Bernhard"
-		},
-		{
-			"slug": "Metz---Kautzer",
-			"name": "Metz - Kautzer",
-			"address": "240 Hoppe Shoal",
-			"city": "Julesshire",
-			"state": "FL",
-			"zip": "21083",
-			"account": 2672292,
-			"contact": "Kay Simonis"
-		},
-		{
-			"slug": "Rice-Inc",
-			"name": "Rice Inc",
-			"address": "264 Jayce Trafficway",
-			"city": "South Fleta",
-			"state": "NE",
-			"zip": "28256",
-			"account": 72247639,
-			"contact": "Catherine McKenzie"
-		},
-		{
-			"slug": "Franecki---Gaylord",
-			"name": "Franecki - Gaylord",
-			"address": "300 Vandervort Stream",
-			"city": "Lake Kylechester",
-			"state": "ID",
-			"zip": "80770-0310",
-			"account": 93660437,
-			"contact": "Eda Hayes"
-		},
-		{
-			"slug": "Oberbrunner-Block-and-Mills",
-			"name": "Oberbrunner, Block and Mills",
-			"address": "356 Conroy Garden",
-			"city": "New Aileen",
-			"state": "WY",
-			"zip": "24466",
-			"account": 11273532,
-			"contact": "Braulio Little"
-		},
-		{
-			"slug": "Feil-Dooley-and-Reinger",
-			"name": "Feil, Dooley and Reinger",
-			"address": "06966 Alfred Ways",
-			"city": "East Lucio",
-			"state": "OR",
-			"zip": "54686",
-			"account": 24745362,
-			"contact": "Pascale Waelchi"
-		},
-		{
-			"slug": "Leuschke-Smith-and-Conroy",
-			"name": "Leuschke, Smith and Conroy",
-			"address": "604 McKenzie Wall",
-			"city": "Immanuelview",
-			"state": "SC",
-			"zip": "42741",
-			"account": 21650895,
-			"contact": "Cletus Hessel"
 		}
 	],
 	"items": [
 		{
-			"id": "1",
 			"tags": ["Trees"],
 			"price": 10.99,
 			"name": "Handcrafted Trees Mug",
@@ -232,6 +161,86 @@
 			"slug": "Handcrafted-Trees-Mug",
 			"added": 1485723766805,
 			"manufacturer": "OHara-Group",
+			"itemType": "mug"
+		},
+		{
+			"tags": ["Beach", "Ocean", "Water"],
+			"price": 19.99,
+			"name": "Rustic Beach Mug",
+			"description": "totam at veritatis eligendi assumenda ex quia praesentium quibusdam ducimus",
+			"slug": "Rustic-Beach-Mug",
+			"added": 1481573896833,
+			"manufacturer": "Sipes-Inc",
+			"itemType": "mug"
+		},
+		{
+			"tags": ["Animal", "Bear"],
+			"price": 17.99,
+			"name": "Handcrafted Bear Mug",
+			"description": "vitae mollitia et in accusantium est voluptas officiis est non",
+			"slug": "Handcrafted-Bear-Mug",
+			"added": 1485991071829,
+			"manufacturer": "Weissnat-Schowalter-and-Koelpin",
+			"itemType": "mug"
+		},
+		{
+			"tags": ["Road"],
+			"price": 15.99,
+			"name": "Refined Road Mug",
+			"description": "explicabo fugit magnam fugit dolorem itaque unde quidem est quia ut a veritatis sit facere possimus fugit ipsam",
+			"slug": "Refined-Road-Mug",
+			"added": 1482213983048,
+			"manufacturer": "Bernier-Hane",
+			"itemType": "mug"
+		},
+		{
+			"tags": ["Ocean", "Rocks"],
+			"price": 10.99,
+			"name": "Unbranded Ocean Mug",
+			"description": "facilis aut velit vitae sit dolorum illum nostrum pariatur dolorem vel atque quasi placeat qui",
+			"slug": "Unbranded-Ocean-Mug",
+			"added": 1483408192004,
+			"manufacturer": "Franecki---Gaylord",
+			"itemType": "mug"
+		},
+		{
+			"tags": ["Sunset", "Beach", "Ocean"],
+			"price": 9.99,
+			"name": "Rustic Ocean Mug",
+			"description": "libero reprehenderit blanditiis quidem laborum ullam quae fuga consequuntur minima praesentium consequatur qui excepturi nostrum tempora sunt deleniti",
+			"slug": "Rustic-Ocean-Mug",
+			"added": 1485511118573,
+			"manufacturer": "Bayer-and-Sons",
+			"itemType": "mug"
+		},
+		{
+			"tags": ["Rust", "Old", "Car"],
+			"price": 19.99,
+			"name": "Sleek Old Mug",
+			"description": "necessitatibus suscipit iure quia voluptates voluptas quidem ipsum laboriosam adipisci",
+			"slug": "Sleek-Old-Mug",
+			"added": 1485759837725,
+			"manufacturer": "Boyle-LLC",
+			"itemType": "mug"
+		},
+		{
+			"tags": ["Coffee"],
+			"price": 14.99,
+			"name": "Sleek Coffee Mug",
+			"description": "et adipisci explicabo consequatur rerum voluptas dolorem qui omnis vel",
+			"slug": "Sleek-Coffee-Mug",
+			"added": 1479259996312,
+			"manufacturer": "Franecki---Gaylord",
+			"itemType": "mug"
+		},
+		{
+			"tags": ["Trees", "Fog", "People"],
+			"price": 16.99,
+			"name": "Rustic Trees Mug",
+			"description": "ut architecto est similique sit nostrum sit sed ipsa itaque aliquam nesciunt reprehenderit et neque aut id nulla dolore sed sit facere eligendi",
+			"slug": "Rustic-Trees-Mug",
+			"added": 1480664800826,
+			"manufacturer": "Weissnat-Schowalter-and-Koelpin",
 			"itemType": "mug"
 		}
 	]
