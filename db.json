@@ -351,50 +351,6 @@
 			"added": 1477819216248,
 			"manufacturer": "Dickens-Franecki",
 			"itemType": "shirt"
-		},
-		{
-			"id": "33",
-			"tags": ["Snow", "Animal", "Wolf"],
-			"price": 14.99,
-			"name": "Ergonomic Animal Shirt",
-			"description": "consequatur perspiciatis et temporibus non recusandae modi laboriosam omnis cupiditate officiis voluptatem aperiam deserunt dolorem",
-			"slug": "Ergonomic-Animal-Shirt",
-			"added": 1480448656770,
-			"manufacturer": "Oberbrunner-Block-and-Mills",
-			"itemType": "shirt"
-		},
-		{
-			"id": "34",
-			"tags": ["Trees", "Forest"],
-			"price": 11.99,
-			"name": "Incredible Forest Shirt",
-			"description": "modi dolore aliquid autem aspernatur voluptatem consequatur aliquid placeat expedita esse sequi perspiciatis laudantium reprehenderit ea non sed voluptatem totam rerum",
-			"slug": "Incredible-Forest-Shirt-1",
-			"added": 1481958005263,
-			"manufacturer": "Rice-Inc",
-			"itemType": "shirt"
-		},
-		{
-			"id": "35",
-			"tags": ["Desert", "Road"],
-			"price": 19.99,
-			"name": "Fantastic Desert Shirt",
-			"description": "et ut sit earum voluptas est in quisquam quo dolor dolorem eos modi dicta perferendis odit consectetur quidem qui quasi voluptatem quas",
-			"slug": "Fantastic-Desert-Shirt",
-			"added": 1485250278780,
-			"manufacturer": "Weissnat-Schowalter-and-Koelpin",
-			"itemType": "shirt"
-		},
-		{
-			"id": "36",
-			"tags": ["Ocean", "Bird", "Water"],
-			"price": 17.99,
-			"name": "Incredible Water Shirt",
-			"description": "voluptas recusandae veritatis sed tempore quam sint enim amet magnam",
-			"slug": "Incredible-Water-Shirt",
-			"added": 1479556980768,
-			"manufacturer": "McCullough---Lueilwitz",
-			"itemType": "shirt"
 		}
 	]
 }
